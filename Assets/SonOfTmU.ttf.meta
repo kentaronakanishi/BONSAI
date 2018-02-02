@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bd9f387e836885546b077f70899130e8
+timeCreated: 1517494222
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SonOfTime
+  fontNames:
+  - SonOfTime
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b673ae433cbcbf848b4527927667c3a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
